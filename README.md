@@ -2,3 +2,5 @@
 ### Welcome to my HackBio Clinical Oncology Internship repository!
 
 This repository was created to document my progress, including all my completed projects as I progress through the stages of my internship, where I'm learning to hack cancer using machine learning and data science bioinformatics skills.
+
+Special thanks to @Omabekee for this wonderful internship repo structure!
